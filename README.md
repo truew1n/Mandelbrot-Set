@@ -2,7 +2,7 @@
 
 You need to compile it on your own.
 
-canvas.ppm is just an examples that was made using this program.
+canvas.ppm is just an example that was made using this program.
 
 Rendering was done using low spec PC as well using only CPU.
 
