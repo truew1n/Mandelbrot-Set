@@ -12,4 +12,4 @@ canvas.ppm in default resolution (1600x800):
 
 Render time: ~665s
 canvas.ppm in higher resolution (16000x8000):
-https://imgur.com/a/Id43tyB
+![canvas](https://github.com/cutelead/MandelbrotSet/blob/c67c0aa5e305aeb56cb5ef6d164020d2ccae4564/canvas.png)
