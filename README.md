@@ -1,11 +1,5 @@
 # Mandelbrot Set
 
-You need to compile it on your own.
-
-canvas.ppm is just an example that was made using this program.
-
-Rendering was done using low spec PC as well using only CPU.
-
 Render time: ~7s ->
 canvas.ppm in default resolution (1600x800):
 ![lcanvas](https://user-images.githubusercontent.com/48839784/206797120-20f0e494-7dcd-4b6b-9da4-fcd0ff50c3ae.png)
